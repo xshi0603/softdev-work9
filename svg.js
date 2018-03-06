@@ -55,6 +55,5 @@ cbutton.addEventListener('click', function() {
 	while (c.firstChild) {
 	    c.removeChild(c.firstChild);
 	}	
-	first = true;
 
     });
